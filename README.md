@@ -1,6 +1,6 @@
 # Machine Learning with Tree-Based Models in Python 
 
-A course of [DataCamp](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+A course of [DataCamp](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) <br>
 A part of [**Data Scientist with Python Track**](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)
 
 **Description:**
