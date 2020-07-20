@@ -3,7 +3,8 @@
 A course of [DataCamp](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 A part of [**Data Scientist with Python Track**](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)
 
-**Description**
+**Description:**
+
 Decision trees are supervised learning models used for problems involving classification and regression. 
 
 Tree models present a high flexibility that comes at a price: on one hand, trees are able to capture complex non-linear relationships; on the other hand, they are prone to memorizing the noise present in a dataset. 
